@@ -167,6 +167,10 @@ header {
   font-size: 90%;
   border-bottom: 2px solid transparent;
   transition: bordor-bottom 0.2s;
+  -webkit-transition: bordor-bottom 0.2s;
+  -moz-transition: bordor-bottom 0.2s;
+  -ms-transition: bordor-bottom 0.2s;
+  -o-transition: bordor-bottom 0.2s;
 }
 
 .main-nav li a:hover,
